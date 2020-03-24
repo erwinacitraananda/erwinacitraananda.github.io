@@ -1,0 +1,26 @@
+body{
+background-color: lightsteelblue;
+}
+
+h1{
+	text-align: left;
+	color: darkblue;
+}
+
+p{
+	color: darkblue;
+}
+
+h2{
+	text-align: left;
+	color: darkblue;
+}
+
+img{
+	border-radius: 100%;
+	width: 400px;
+	height :500px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
